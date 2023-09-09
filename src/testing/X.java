@@ -1,7 +1,7 @@
 package testing;
 
-public class B {
- private void syso() {
+public class X {
+  private void sysi() {
 	// TODO Auto-generated method stub
 
 }
