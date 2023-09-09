@@ -24,6 +24,7 @@ public class A {
 		c1.setCellValue("Hello");
 		wk.write(fs);
 		wk.close();
+		System.out.println("Hello World");
 
 		
         
